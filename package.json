@@ -1,0 +1,55 @@
+{
+  "_from": "node-red-contrib-autokey@0.0.3",
+  "_id": "node-red-contrib-autokey@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-6LkUf0OaZNolMSNNYSKcmbtwk8s=",
+  "_location": "/node-red-contrib-autokey",
+  "_phantomChildren": {
+    "nan": "2.14.0"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "node-red-contrib-autokey@0.0.3",
+    "name": "node-red-contrib-autokey",
+    "escapedName": "node-red-contrib-autokey",
+    "rawSpec": "0.1.3",
+    "saveSpec": null,
+    "fetchSpec": "0.1.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-autokey/-/node-red-contrib-autokey-0.0.3.tgz",
+  "_shasum": "e8b9147f439a64da2531234d61229c99bb7093cb",
+  "_spec": "node-red-contrib-autokey@0.0.3",
+  "_where": "C:\\Users\\D\\.node-red",
+  "author": {
+    "name": "Alex Chien"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  },
+  "deprecated": false,
+  "description": "Node-Red nodes for communicating with mouse, keyboard and screen",
+  "keywords": [
+    "node-red",
+    "autokey"
+  ],
+  "main": "77-autokey.js",
+  "name": "node-red-contrib-autokey",
+  "node-red": {
+    "nodes": {
+      "autokey": "77-autokey.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vizkits/node-red-nodes/tree/master/autokey"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
